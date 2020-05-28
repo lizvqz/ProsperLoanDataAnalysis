@@ -1,0 +1,7 @@
+*.csv
+*.txt
+*.tsv
+*.DS_Store
+*.ipynb_checkpoints
+settings.py
+/__pycache__/*
