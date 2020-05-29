@@ -15,3 +15,7 @@
 ## Key Insights for Presentation
 
 > Select one or two main threads from your exploration to polish up for your presentation. Note any changes in design from your exploration step here.
+
+## Resource list
+https://www.lendacademy.com/prosper-review/
+https://www.lendacademy.com/the-difference-between-a-default-and-a-charge-off-at-lending-club/
